@@ -38,7 +38,7 @@
 ### 🏥 **Ethiopian Vital Events Management System**
 *Comprehensive system for managing vital events (births, deaths, marriages)*
 - **Tech Stack:** React, Node.js, MongoDB, Express
-- **Features:** Digital registration, reporting, and certificate generation
+- **Features:** Digital registration, reporting, and certificate generation.
 - **Status:** Ongoing development
 
 ### 💼 **Other University Projects**
